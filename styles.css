@@ -198,3 +198,10 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+h1.mb-3 {
+    font-size:90px;
+    text-shadow: -5px 5px #e37676;
+    color:white;
+    text-transform:uppercase;
+   font-family:;
+}
