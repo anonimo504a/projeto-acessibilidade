@@ -7,15 +7,17 @@
     --alto-contraste-fundo: #090536;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #c7faf1;
+    
 }
 
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
+    background-color:#568ca1;
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #48809a;
 }
 
 
